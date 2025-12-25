@@ -52,6 +52,10 @@ Cosine Similarity
 
 How to run locally 
 
+live demo
+
+https://fashion-support-chatbot-8c7fcmepq2etnrreljyumv.streamlit.app/
+
 Run the following commands in your terminal:
 
 ```bash
